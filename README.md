@@ -49,12 +49,7 @@ O notebook é auto-executável e os dados são carregados diretamente de URLs, n
 
 *(Esta seção deve ser preenchida após a conclusão das análises no notebook. Aqui você pode adicionar uma breve síntese dos principais achados, como qual loja teve o menor faturamento, qual teve a pior avaliação, quais produtos se destacaram, etc. Você pode até adicionar algumas das visualizações mais importantes.)*
 
-Com base na análise das métricas de faturamento total, faturamento mensal, vendas por categoria, avaliação média, produtos mais/menos vendidos e frete médio, foi possível identificar que a **[Nome da Loja com Menor Rendimento]** apresentou o menor desempenho geral.
-
-*   [Mencione brevemente os principais motivos ou métricas que levaram a essa conclusão.]
-*   [Opcional: Inclua uma imagem de um gráfico chave aqui, como o faturamento total por loja.]
-
-A análise geográfica adicional revelou [descreva brevemente os padrões geográficos observados, por exemplo, se uma loja atende uma área menos populosa ou com menor poder aquisitivo].
+Com base na análise das métricas de faturamento total, faturamento mensal, vendas por categoria, avaliação média, produtos mais/menos vendidos e frete médio, foi possível identificar que a **Loja 4** apresentou o menor desempenho geral.
 
 ## 🤝 Contribuição
 
@@ -66,5 +61,5 @@ Este projeto está sob a licença MIT.
 
 ## Contato
 
-[Seu Nome/Pseudônimo]
-[Link para seu GitHub ou LinkedIn - Opcional]
+DevaFullStack
+https://github.com/DevaFullStack
